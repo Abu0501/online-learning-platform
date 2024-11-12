@@ -41,18 +41,11 @@ online-learning-platform/
 │   └── public/
 │
 ├── backend/
-│   ├── controllers/
 │   ├── models/
 │   ├── routes/
 │   ├── middleware/
 │   └── config/
-│
-├── admin/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── styles/
-└── └── public/
+
 
 ```
 
